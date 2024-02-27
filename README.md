@@ -28,5 +28,6 @@
 
 <h2 align="left">Connect with me on:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/mhamedbenyoussef" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadelfatih" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhamedbenyoussef" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadelfatih" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/mhamedbenyoussef" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadelfatih" height="30" width="40" /></a>
 </p>
