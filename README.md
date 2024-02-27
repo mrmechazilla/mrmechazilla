@@ -1,10 +1,10 @@
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=mrmechazilla.mrmechazilla&format=true)
 
-<h1 align="center">
+<!--  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&weight=800&lines=Hi+👋,+I'm+Youssef;" />
-</h1>
+</h1> --> 
 
-<!--  <h1 align="center">Hi 👋, I'm Youssef</h1> -->
+<h1 align="center">Hi 👋, I'm Youssef</h1> 
 
 <h3 align="center">A passionate Software Engineer from Morocco 🇲🇦</h3>
 
