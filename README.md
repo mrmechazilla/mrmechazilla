@@ -11,7 +11,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/springio/springio-icon.svg](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg)" alt="spring" width="60" height="40"/> </a>
+    <a href="https://www.spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="60" height="40"/> </a>
     <a href="https://www.spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://www.angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
