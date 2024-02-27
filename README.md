@@ -28,6 +28,6 @@
 
 <h2 align="left">Connect with me on:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/mhamedbenyoussef" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziadelfatih" height="30" width="40" /></a>
-    <a href="https://twitter.com/xaesr71" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="ziadelfatih" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhamedbenyoussef" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhamedbenyoussef" height="30" width="40" /></a>
+    <a href="https://twitter.com/xaesr71" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="youssef" height="30" width="40" /></a>
 </p>
