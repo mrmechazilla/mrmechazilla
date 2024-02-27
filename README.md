@@ -1,4 +1,4 @@
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=mrmechazilla.mrmechazilla)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=mrmechazilla.mrmechazilla&format=true)
 
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 
